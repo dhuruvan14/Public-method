@@ -10,7 +10,9 @@ public class Practice1 {
 		System.out.println(b);
 
 	}
-
+public void time() {
+System.out.println("time");
+}
 	
 	
 		
